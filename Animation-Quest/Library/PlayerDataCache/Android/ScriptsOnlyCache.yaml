@@ -1,6 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - ONSPAudioSource
     - ONSPSettings
     - VRRenderScale
     Oculus.VR.Editor.dll:
@@ -104,6 +105,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
     - Class: 95
@@ -154,6 +159,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12726}
     - Class: 114
       Script: {instanceID: 12744}
+    - Class: 114
+      Script: {instanceID: 12766}
     - Class: 114
       Script: {instanceID: 13050}
     - Class: 114
