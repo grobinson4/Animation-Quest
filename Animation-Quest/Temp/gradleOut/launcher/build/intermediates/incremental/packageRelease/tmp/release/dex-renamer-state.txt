@@ -1,0 +1,4 @@
+#Thu Aug 06 23:49:27 EDT 2020
+base.0=C\:\\Users\\garobins\\Documents\\RobinsonTech\\XR\\Animation-Quest\\Animation-Quest\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
