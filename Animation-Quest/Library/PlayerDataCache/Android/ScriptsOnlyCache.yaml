@@ -10,6 +10,7 @@ ScriptsOnlyBuild:
     Oculus.VR.dll:
     - OVRCameraRig
     - OVRGrabbable
+    - OVRGrabber
     - OVRHand
     - OVRHeadsetEmulator
     - OVRManager
@@ -66,7 +67,6 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateMachineNode
     - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
@@ -217,6 +217,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 15140}
     - Class: 114
       Script: {instanceID: 15256}
+    - Class: 114
+      Script: {instanceID: 15280}
     - Class: 114
       Script: {instanceID: 15388}
     - Class: 114
